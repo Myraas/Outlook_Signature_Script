@@ -76,7 +76,7 @@ function Update-Signature {
 
 	 <!-- Embed encoded base64 signature image -->
      <img border=0
-     src="data:image/png;base64,####################PASTE BASE64 ENCODED IMAGE HERE. I use "https://www.base64-image.de/" ####################"</p>
+     src="data:image/png;base64,##############PASTE BASE64 ENCODED IMAGE HERE. I use "https://www.base64-image.de/" ##############"</p>
 	  </body>
       </html>
 "@
